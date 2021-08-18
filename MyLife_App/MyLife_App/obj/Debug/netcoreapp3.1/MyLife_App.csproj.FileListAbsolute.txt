@@ -1,0 +1,13 @@
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\bin\Debug\netcoreapp3.1\MyLife_App.exe
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\bin\Debug\netcoreapp3.1\MyLife_App.deps.json
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\bin\Debug\netcoreapp3.1\MyLife_App.runtimeconfig.json
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\bin\Debug\netcoreapp3.1\MyLife_App.runtimeconfig.dev.json
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\bin\Debug\netcoreapp3.1\MyLife_App.dll
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\bin\Debug\netcoreapp3.1\MyLife_App.pdb
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.csproj.AssemblyReference.cache
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.AssemblyInfoInputs.cache
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.AssemblyInfo.cs
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.csproj.CoreCompileInputs.cache
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.dll
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.pdb
+C:\Users\kkrup\source\repos\MyLife_App\MyLife_App\obj\Debug\netcoreapp3.1\MyLife_App.genruntimeconfig.cache
